@@ -1,3 +1,3 @@
 # Hello-world
 learning must go on
-this is vikas qurious data science world potent and exited to explore.
+This is vikas qurious to data science and exited to explore and learn as much as i can.
